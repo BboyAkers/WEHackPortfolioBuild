@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "projectOrg":"Cryptoplex Management",
+        "projectName": "Cryptoplex Mangement",
+        "associationWithProject": "Co-Founder",
+        "description": "Used the Quasar framework built on top of vue.js to build out a frontend that automates the financial tracking of your ethereum wallet.",
+        "githubLink": "https://github.com/BboyAkers",
+        "demoLink": "https://cryptoplexmanagement.com/"
+    },
+    {
+        "id": 2,
+        "projectOrg":"MetaMask",
+        "projectName": "MetaMask Documentation",
+        "associationWithProject": "Contributor",
+        "description": "Built a Solar Sytem using Babylon.js for fun!",
+        "githubLink": "https://github.com/MetaMask/metamask-docs",
+        "demoLink": "https://metamask.github.io/metamask-docs/"
+    },
+    {
+        "id": 3,
+        "projectOrg":"MetaMask",
+        "projectName": "MetaMask Test Dapp",
+        "associationWithProject": "Contributor",
+        "description": "Contributed heavily to the re-design and development of the new metamask documentation.",
+        "githubLink": "https://github.com/MetaMask/test-dapp",
+        "demoLink": "https://metamask.github.io/test-dapp/"
+    },
+    {
+        "id": 4,
+        "projectOrg":"Vue.js",
+        "projectName": "Vue 3 Router",
+        "associationWithProject": "Contributor",
+        "description": "Contributed re-design of the MetaMask Test Dapp.",
+        "githubLink": "https://github.com/vuejs/vue-router-next",
+        "demoLink": "https://router.vuejs.org/"
+    }
+
+]
